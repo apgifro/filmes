@@ -4,19 +4,19 @@
 
 ## Início 
 
-![tela](/readme/f1.png)
+![tela](/readme/f1.jpeg)
 
 ## Início
 
-![tela](/readme/f2.png)
+![tela](/readme/f2.jpeg)
 
 ## Início
 
-![tela](/readme/f3.png)
+![tela](/readme/f3.jpeg)
 
 ## Detalhes
 
-![tela](/readme/f4.png)
+![tela](/readme/f4.jpeg)
 
 # Download
 
