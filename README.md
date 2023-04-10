@@ -8,17 +8,9 @@
 
 ## Início 
 
-![tela](/readme/f1.jpeg)
-
-## Início
-
-![tela](/readme/f2.jpeg)
-
-## Início
-
-![tela](/readme/f3.jpeg)
+![tela](/readme/f1.png)
 
 ## Detalhes
 
-![tela](/readme/f4.jpeg)
+![tela](/readme/f2.png)
 
