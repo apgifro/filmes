@@ -2,7 +2,7 @@
 
 # Download
 
-[APK no Google Drive](https://drive.google.com/file/d/18FauOWnyU_lO0ktlWkOrNgK4C5MX3p6y/view?usp=share_link)
+[APK no Google Drive: indisponível]()
 
 # Imagens
 
